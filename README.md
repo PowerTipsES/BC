@@ -1,8 +1,8 @@
 # Repo Comunidad Business Central en Español
 
-Este es el código y contenido de la comunidad de usuarios de Business Central en Español [Business Central en Español](https://https://t.me/BCesp). 
+Este es el código y contenido de la comunidad de usuarios de [Business Central en Español](https://https://t.me/BCesp). 
 
-Este proyecto nació originalmente como "MSDynamics.es" hace más de 15 años. Con el paso del tiempo y el cambio de paradigmas y enfoques en los proyectos, se convirtió en PowerTips [PowerTips](https://PowerTips.es), donde se habla no sólo ya de Dynamics 365, sino también de Power Platform, de Microsoft 365, de Azure, de AI, etc. En definitiva, PRODUCTIVIDAD Y TECNOLOGÍA.
+Este proyecto nació originalmente como "MSDynamics.es" hace más de 15 años. Con el paso del tiempo y el cambio de paradigmas y enfoques en los proyectos, se convirtió en [PowerTips](https://PowerTips.es), donde se habla no sólo ya de Dynamics 365, sino también de Power Platform, de Microsoft 365, de Azure, de AI, etc. En definitiva, PRODUCTIVIDAD Y TECNOLOGÍA.
 
 En particular en este repo, encontrarás recursos específicamente de Microsoft Dynamics 365 Business Central.
 
